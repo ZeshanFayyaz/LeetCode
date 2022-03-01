@@ -14,6 +14,7 @@ class Solution:
                 if new_list[-1::-1] == new_list[0::1]:
                     print("hello")
                     print("whats up")
+                    print("zeshan")
                     return True;
                 else:
                     return False

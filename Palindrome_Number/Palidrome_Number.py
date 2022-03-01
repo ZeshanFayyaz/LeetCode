@@ -13,6 +13,7 @@ class Solution:
             for i in new_list:
                 if new_list[-1::-1] == new_list[0::1]:
                     print("hello")
+                    print("whats up")
                     return True;
                 else:
                     return False
